@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/tuananh/Documents/DATN/build/_deps/metalang99-subbuild/CMakeFiles/metalang99-populate"
+		},
+		{
+			"file" : "/home/tuananh/Documents/DATN/build/_deps/metalang99-subbuild/CMakeFiles/metalang99-populate.rule"
+		},
+		{
+			"file" : "/home/tuananh/Documents/DATN/build/_deps/metalang99-subbuild/CMakeFiles/metalang99-populate-complete.rule"
+		},
+		{
+			"file" : "/home/tuananh/Documents/DATN/build/_deps/metalang99-subbuild/metalang99-populate-prefix/src/metalang99-populate-stamp/metalang99-populate-install.rule"
+		},
+		{
+			"file" : "/home/tuananh/Documents/DATN/build/_deps/metalang99-subbuild/metalang99-populate-prefix/src/metalang99-populate-stamp/metalang99-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/tuananh/Documents/DATN/build/_deps/metalang99-subbuild/metalang99-populate-prefix/src/metalang99-populate-stamp/metalang99-populate-download.rule"
+		},
+		{
+			"file" : "/home/tuananh/Documents/DATN/build/_deps/metalang99-subbuild/metalang99-populate-prefix/src/metalang99-populate-stamp/metalang99-populate-update.rule"
+		},
+		{
+			"file" : "/home/tuananh/Documents/DATN/build/_deps/metalang99-subbuild/metalang99-populate-prefix/src/metalang99-populate-stamp/metalang99-populate-patch.rule"
+		},
+		{
+			"file" : "/home/tuananh/Documents/DATN/build/_deps/metalang99-subbuild/metalang99-populate-prefix/src/metalang99-populate-stamp/metalang99-populate-configure.rule"
+		},
+		{
+			"file" : "/home/tuananh/Documents/DATN/build/_deps/metalang99-subbuild/metalang99-populate-prefix/src/metalang99-populate-stamp/metalang99-populate-build.rule"
+		},
+		{
+			"file" : "/home/tuananh/Documents/DATN/build/_deps/metalang99-subbuild/metalang99-populate-prefix/src/metalang99-populate-stamp/metalang99-populate-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"metalang99-populate"
+		],
+		"name" : "metalang99-populate"
+	}
+}

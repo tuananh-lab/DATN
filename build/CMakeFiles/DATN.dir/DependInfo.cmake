@@ -1,0 +1,96 @@
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  "C"
+  )
+# The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_C
+  "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/cmake_pch.h.c" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/cmake_pch.h.gch"
+  "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/cmake_pch.h" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/cmake_pch.h.gch"
+  "/home/tuananh/Documents/DATN/src/camera-utils/capture-jpeg.c" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/src/camera-utils/capture-jpeg.c.o"
+  "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/cmake_pch.h" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/src/camera-utils/capture-jpeg.c.o"
+  "/home/tuananh/Documents/DATN/src/camera-utils/list-controls.c" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/src/camera-utils/list-controls.c.o"
+  "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/cmake_pch.h" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/src/camera-utils/list-controls.c.o"
+  "/home/tuananh/Documents/DATN/src/camera-utils/list-formats.c" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/src/camera-utils/list-formats.c.o"
+  "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/cmake_pch.h" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/src/camera-utils/list-formats.c.o"
+  "/home/tuananh/Documents/DATN/src/capture.c" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/src/capture.c.o"
+  "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/cmake_pch.h" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/src/capture.c.o"
+  "/home/tuananh/Documents/DATN/src/context.c" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/src/context.c.o"
+  "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/cmake_pch.h" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/src/context.c.o"
+  "/home/tuananh/Documents/DATN/src/controller.c" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/src/controller.c.o"
+  "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/cmake_pch.h" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/src/controller.c.o"
+  "/home/tuananh/Documents/DATN/src/io_vec.c" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/src/io_vec.c.o"
+  "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/cmake_pch.h" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/src/io_vec.c.o"
+  "/home/tuananh/Documents/DATN/src/nal.c" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/src/nal.c.o"
+  "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/cmake_pch.h" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/src/nal.c.o"
+  "/home/tuananh/Documents/DATN/src/nal/h264.c" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/src/nal/h264.c.o"
+  "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/cmake_pch.h" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/src/nal/h264.c.o"
+  "/home/tuananh/Documents/DATN/src/nal/h265.c" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/src/nal/h265.c.o"
+  "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/cmake_pch.h" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/src/nal/h265.c.o"
+  "/home/tuananh/Documents/DATN/src/nal_transport.c" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/src/nal_transport.c.o"
+  "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/cmake_pch.h" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/src/nal_transport.c.o"
+  "/home/tuananh/Documents/DATN/src/rtp_transport.c" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/src/rtp_transport.c.o"
+  "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/cmake_pch.h" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/src/rtp_transport.c.o"
+  "/home/tuananh/Documents/DATN/src/transport/tcp.c" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/src/transport/tcp.c.o"
+  "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/cmake_pch.h" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/src/transport/tcp.c.o"
+  "/home/tuananh/Documents/DATN/src/transport/udp.c" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/src/transport/udp.c.o"
+  "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/cmake_pch.h" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/src/transport/udp.c.o"
+  "/home/tuananh/Documents/DATN/src/types/error.c" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/src/types/error.c.o"
+  "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/cmake_pch.h" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/src/types/error.c.o"
+  "/home/tuananh/Documents/DATN/src/types/header.c" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/src/types/header.c.o"
+  "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/cmake_pch.h" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/src/types/header.c.o"
+  "/home/tuananh/Documents/DATN/src/types/header_map.c" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/src/types/header_map.c.o"
+  "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/cmake_pch.h" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/src/types/header_map.c.o"
+  "/home/tuananh/Documents/DATN/src/types/message_body.c" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/src/types/message_body.c.o"
+  "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/cmake_pch.h" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/src/types/message_body.c.o"
+  "/home/tuananh/Documents/DATN/src/types/method.c" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/src/types/method.c.o"
+  "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/cmake_pch.h" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/src/types/method.c.o"
+  "/home/tuananh/Documents/DATN/src/types/parsing.c" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/src/types/parsing.c.o"
+  "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/cmake_pch.h" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/src/types/parsing.c.o"
+  "/home/tuananh/Documents/DATN/src/types/reason_phrase.c" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/src/types/reason_phrase.c.o"
+  "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/cmake_pch.h" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/src/types/reason_phrase.c.o"
+  "/home/tuananh/Documents/DATN/src/types/request.c" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/src/types/request.c.o"
+  "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/cmake_pch.h" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/src/types/request.c.o"
+  "/home/tuananh/Documents/DATN/src/types/request_line.c" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/src/types/request_line.c.o"
+  "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/cmake_pch.h" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/src/types/request_line.c.o"
+  "/home/tuananh/Documents/DATN/src/types/request_uri.c" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/src/types/request_uri.c.o"
+  "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/cmake_pch.h" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/src/types/request_uri.c.o"
+  "/home/tuananh/Documents/DATN/src/types/response.c" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/src/types/response.c.o"
+  "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/cmake_pch.h" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/src/types/response.c.o"
+  "/home/tuananh/Documents/DATN/src/types/response_line.c" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/src/types/response_line.c.o"
+  "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/cmake_pch.h" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/src/types/response_line.c.o"
+  "/home/tuananh/Documents/DATN/src/types/rtp.c" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/src/types/rtp.c.o"
+  "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/cmake_pch.h" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/src/types/rtp.c.o"
+  "/home/tuananh/Documents/DATN/src/types/rtsp_version.c" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/src/types/rtsp_version.c.o"
+  "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/cmake_pch.h" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/src/types/rtsp_version.c.o"
+  "/home/tuananh/Documents/DATN/src/types/sdp.c" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/src/types/sdp.c.o"
+  "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/cmake_pch.h" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/src/types/sdp.c.o"
+  "/home/tuananh/Documents/DATN/src/types/status_code.c" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/src/types/status_code.c.o"
+  "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/cmake_pch.h" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/src/types/status_code.c.o"
+  "/home/tuananh/Documents/DATN/src/util.c" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/src/util.c.o"
+  "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/cmake_pch.h" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/src/util.c.o"
+  "/home/tuananh/Documents/DATN/src/writer.c" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/src/writer.c.o"
+  "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/cmake_pch.h" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/src/writer.c.o"
+  "/home/tuananh/Documents/DATN/src/writer/fd.c" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/src/writer/fd.c.o"
+  "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/cmake_pch.h" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/src/writer/fd.c.o"
+  "/home/tuananh/Documents/DATN/src/writer/file.c" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/src/writer/file.c.o"
+  "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/cmake_pch.h" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/src/writer/file.c.o"
+  "/home/tuananh/Documents/DATN/src/writer/string.c" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/src/writer/string.c.o"
+  "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/cmake_pch.h" "/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir/src/writer/string.c.o"
+  )
+set(CMAKE_C_COMPILER_ID "GNU")
+
+# The include file search paths:
+set(CMAKE_C_TARGET_INCLUDE_PATH
+  "../include"
+  "_deps/slice99-src"
+  "_deps/metalang99-src/include"
+  "_deps/datatype99-src"
+  "_deps/interface99-src"
+  )
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

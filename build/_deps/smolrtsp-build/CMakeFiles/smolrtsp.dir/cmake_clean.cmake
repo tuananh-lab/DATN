@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/smolrtsp.dir/cmake_pch.h.gch"
+  "CMakeFiles/smolrtsp.dir/src/context.c.o"
+  "CMakeFiles/smolrtsp.dir/src/controller.c.o"
+  "CMakeFiles/smolrtsp.dir/src/io_vec.c.o"
+  "CMakeFiles/smolrtsp.dir/src/nal.c.o"
+  "CMakeFiles/smolrtsp.dir/src/nal/h264.c.o"
+  "CMakeFiles/smolrtsp.dir/src/nal/h265.c.o"
+  "CMakeFiles/smolrtsp.dir/src/nal_transport.c.o"
+  "CMakeFiles/smolrtsp.dir/src/rtp_transport.c.o"
+  "CMakeFiles/smolrtsp.dir/src/transport/tcp.c.o"
+  "CMakeFiles/smolrtsp.dir/src/transport/udp.c.o"
+  "CMakeFiles/smolrtsp.dir/src/types/error.c.o"
+  "CMakeFiles/smolrtsp.dir/src/types/header.c.o"
+  "CMakeFiles/smolrtsp.dir/src/types/header_map.c.o"
+  "CMakeFiles/smolrtsp.dir/src/types/message_body.c.o"
+  "CMakeFiles/smolrtsp.dir/src/types/method.c.o"
+  "CMakeFiles/smolrtsp.dir/src/types/parsing.c.o"
+  "CMakeFiles/smolrtsp.dir/src/types/reason_phrase.c.o"
+  "CMakeFiles/smolrtsp.dir/src/types/request.c.o"
+  "CMakeFiles/smolrtsp.dir/src/types/request_line.c.o"
+  "CMakeFiles/smolrtsp.dir/src/types/request_uri.c.o"
+  "CMakeFiles/smolrtsp.dir/src/types/response.c.o"
+  "CMakeFiles/smolrtsp.dir/src/types/response_line.c.o"
+  "CMakeFiles/smolrtsp.dir/src/types/rtp.c.o"
+  "CMakeFiles/smolrtsp.dir/src/types/rtsp_version.c.o"
+  "CMakeFiles/smolrtsp.dir/src/types/sdp.c.o"
+  "CMakeFiles/smolrtsp.dir/src/types/status_code.c.o"
+  "CMakeFiles/smolrtsp.dir/src/util.c.o"
+  "CMakeFiles/smolrtsp.dir/src/writer.c.o"
+  "CMakeFiles/smolrtsp.dir/src/writer/fd.c.o"
+  "CMakeFiles/smolrtsp.dir/src/writer/file.c.o"
+  "CMakeFiles/smolrtsp.dir/src/writer/string.c.o"
+  "libsmolrtsp.a"
+  "libsmolrtsp.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C)
+  include(CMakeFiles/smolrtsp.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

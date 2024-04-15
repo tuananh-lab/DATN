@@ -1,0 +1,3 @@
+repository='external project URL'
+module='https://github.com/silentbicycle/greatest/archive/refs/tags/v1.5.0.tar.gz'
+tag=''

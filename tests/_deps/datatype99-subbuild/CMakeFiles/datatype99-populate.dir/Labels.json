@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/tuananh/Documents/Github/smolrtsp/tests/_deps/datatype99-subbuild/CMakeFiles/datatype99-populate"
+		},
+		{
+			"file" : "/home/tuananh/Documents/Github/smolrtsp/tests/_deps/datatype99-subbuild/CMakeFiles/datatype99-populate.rule"
+		},
+		{
+			"file" : "/home/tuananh/Documents/Github/smolrtsp/tests/_deps/datatype99-subbuild/CMakeFiles/datatype99-populate-complete.rule"
+		},
+		{
+			"file" : "/home/tuananh/Documents/Github/smolrtsp/tests/_deps/datatype99-subbuild/datatype99-populate-prefix/src/datatype99-populate-stamp/datatype99-populate-install.rule"
+		},
+		{
+			"file" : "/home/tuananh/Documents/Github/smolrtsp/tests/_deps/datatype99-subbuild/datatype99-populate-prefix/src/datatype99-populate-stamp/datatype99-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/tuananh/Documents/Github/smolrtsp/tests/_deps/datatype99-subbuild/datatype99-populate-prefix/src/datatype99-populate-stamp/datatype99-populate-download.rule"
+		},
+		{
+			"file" : "/home/tuananh/Documents/Github/smolrtsp/tests/_deps/datatype99-subbuild/datatype99-populate-prefix/src/datatype99-populate-stamp/datatype99-populate-update.rule"
+		},
+		{
+			"file" : "/home/tuananh/Documents/Github/smolrtsp/tests/_deps/datatype99-subbuild/datatype99-populate-prefix/src/datatype99-populate-stamp/datatype99-populate-patch.rule"
+		},
+		{
+			"file" : "/home/tuananh/Documents/Github/smolrtsp/tests/_deps/datatype99-subbuild/datatype99-populate-prefix/src/datatype99-populate-stamp/datatype99-populate-configure.rule"
+		},
+		{
+			"file" : "/home/tuananh/Documents/Github/smolrtsp/tests/_deps/datatype99-subbuild/datatype99-populate-prefix/src/datatype99-populate-stamp/datatype99-populate-build.rule"
+		},
+		{
+			"file" : "/home/tuananh/Documents/Github/smolrtsp/tests/_deps/datatype99-subbuild/datatype99-populate-prefix/src/datatype99-populate-stamp/datatype99-populate-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"datatype99-populate"
+		],
+		"name" : "datatype99-populate"
+	}
+}

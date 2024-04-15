@@ -1,0 +1,14 @@
+/home/tuananh/Documents/DATN/build/CMakeFiles/rebuild_cache.dir
+/home/tuananh/Documents/DATN/build/CMakeFiles/edit_cache.dir
+/home/tuananh/Documents/DATN/build/CMakeFiles/DATN.dir
+/home/tuananh/Documents/DATN/build/_deps/smolrtsp-build/CMakeFiles/rebuild_cache.dir
+/home/tuananh/Documents/DATN/build/_deps/smolrtsp-build/CMakeFiles/edit_cache.dir
+/home/tuananh/Documents/DATN/build/_deps/smolrtsp-build/CMakeFiles/smolrtsp.dir
+/home/tuananh/Documents/DATN/build/_deps/slice99-build/CMakeFiles/edit_cache.dir
+/home/tuananh/Documents/DATN/build/_deps/slice99-build/CMakeFiles/rebuild_cache.dir
+/home/tuananh/Documents/DATN/build/_deps/datatype99-build/CMakeFiles/rebuild_cache.dir
+/home/tuananh/Documents/DATN/build/_deps/datatype99-build/CMakeFiles/edit_cache.dir
+/home/tuananh/Documents/DATN/build/_deps/metalang99-build/CMakeFiles/rebuild_cache.dir
+/home/tuananh/Documents/DATN/build/_deps/metalang99-build/CMakeFiles/edit_cache.dir
+/home/tuananh/Documents/DATN/build/_deps/interface99-build/CMakeFiles/rebuild_cache.dir
+/home/tuananh/Documents/DATN/build/_deps/interface99-build/CMakeFiles/edit_cache.dir

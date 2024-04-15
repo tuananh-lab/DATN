@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/tuananh/Documents/DATN/build/_deps/smolrtsp-subbuild/CMakeFiles/smolrtsp-populate"
+		},
+		{
+			"file" : "/home/tuananh/Documents/DATN/build/_deps/smolrtsp-subbuild/CMakeFiles/smolrtsp-populate.rule"
+		},
+		{
+			"file" : "/home/tuananh/Documents/DATN/build/_deps/smolrtsp-subbuild/CMakeFiles/smolrtsp-populate-complete.rule"
+		},
+		{
+			"file" : "/home/tuananh/Documents/DATN/build/_deps/smolrtsp-subbuild/smolrtsp-populate-prefix/src/smolrtsp-populate-stamp/smolrtsp-populate-install.rule"
+		},
+		{
+			"file" : "/home/tuananh/Documents/DATN/build/_deps/smolrtsp-subbuild/smolrtsp-populate-prefix/src/smolrtsp-populate-stamp/smolrtsp-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/tuananh/Documents/DATN/build/_deps/smolrtsp-subbuild/smolrtsp-populate-prefix/src/smolrtsp-populate-stamp/smolrtsp-populate-download.rule"
+		},
+		{
+			"file" : "/home/tuananh/Documents/DATN/build/_deps/smolrtsp-subbuild/smolrtsp-populate-prefix/src/smolrtsp-populate-stamp/smolrtsp-populate-update.rule"
+		},
+		{
+			"file" : "/home/tuananh/Documents/DATN/build/_deps/smolrtsp-subbuild/smolrtsp-populate-prefix/src/smolrtsp-populate-stamp/smolrtsp-populate-patch.rule"
+		},
+		{
+			"file" : "/home/tuananh/Documents/DATN/build/_deps/smolrtsp-subbuild/smolrtsp-populate-prefix/src/smolrtsp-populate-stamp/smolrtsp-populate-configure.rule"
+		},
+		{
+			"file" : "/home/tuananh/Documents/DATN/build/_deps/smolrtsp-subbuild/smolrtsp-populate-prefix/src/smolrtsp-populate-stamp/smolrtsp-populate-build.rule"
+		},
+		{
+			"file" : "/home/tuananh/Documents/DATN/build/_deps/smolrtsp-subbuild/smolrtsp-populate-prefix/src/smolrtsp-populate-stamp/smolrtsp-populate-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"smolrtsp-populate"
+		],
+		"name" : "smolrtsp-populate"
+	}
+}

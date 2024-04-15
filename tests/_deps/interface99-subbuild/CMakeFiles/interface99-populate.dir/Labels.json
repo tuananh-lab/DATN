@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/tuananh/Documents/Github/smolrtsp/tests/_deps/interface99-subbuild/CMakeFiles/interface99-populate"
+		},
+		{
+			"file" : "/home/tuananh/Documents/Github/smolrtsp/tests/_deps/interface99-subbuild/CMakeFiles/interface99-populate.rule"
+		},
+		{
+			"file" : "/home/tuananh/Documents/Github/smolrtsp/tests/_deps/interface99-subbuild/CMakeFiles/interface99-populate-complete.rule"
+		},
+		{
+			"file" : "/home/tuananh/Documents/Github/smolrtsp/tests/_deps/interface99-subbuild/interface99-populate-prefix/src/interface99-populate-stamp/interface99-populate-install.rule"
+		},
+		{
+			"file" : "/home/tuananh/Documents/Github/smolrtsp/tests/_deps/interface99-subbuild/interface99-populate-prefix/src/interface99-populate-stamp/interface99-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/tuananh/Documents/Github/smolrtsp/tests/_deps/interface99-subbuild/interface99-populate-prefix/src/interface99-populate-stamp/interface99-populate-download.rule"
+		},
+		{
+			"file" : "/home/tuananh/Documents/Github/smolrtsp/tests/_deps/interface99-subbuild/interface99-populate-prefix/src/interface99-populate-stamp/interface99-populate-update.rule"
+		},
+		{
+			"file" : "/home/tuananh/Documents/Github/smolrtsp/tests/_deps/interface99-subbuild/interface99-populate-prefix/src/interface99-populate-stamp/interface99-populate-patch.rule"
+		},
+		{
+			"file" : "/home/tuananh/Documents/Github/smolrtsp/tests/_deps/interface99-subbuild/interface99-populate-prefix/src/interface99-populate-stamp/interface99-populate-configure.rule"
+		},
+		{
+			"file" : "/home/tuananh/Documents/Github/smolrtsp/tests/_deps/interface99-subbuild/interface99-populate-prefix/src/interface99-populate-stamp/interface99-populate-build.rule"
+		},
+		{
+			"file" : "/home/tuananh/Documents/Github/smolrtsp/tests/_deps/interface99-subbuild/interface99-populate-prefix/src/interface99-populate-stamp/interface99-populate-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"interface99-populate"
+		],
+		"name" : "interface99-populate"
+	}
+}
